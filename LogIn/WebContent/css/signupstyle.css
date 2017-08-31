@@ -1,0 +1,35 @@
+
+body{
+	margin:0 auto;
+	background-image: url("../img/sign.jpg");
+	background-repeat:  no-repeat;
+	background-size: 100% 720px;
+}
+.container{
+	width:600px;
+	height:420px;	
+	background-color:rgba(52,73,94,0.5);
+	margin:0 auto;
+	margin-top: 50px ;
+	padding-left:40px;
+	
+}
+input[type="text"]{
+	height:40px;
+	width:500px;
+	font-size:20px;
+	padding-left:40px; /*text in input box*/
+	border:none;
+	border-radius:8px;
+	margin-top:40px;
+	
+}
+.submit{
+	padding:20px 25px;
+	border:none;
+	border-radius:10px;
+	color:white;
+	background-color:#2ECC71;
+	margin-top:20px;
+	margin-left:-30px;
+}
